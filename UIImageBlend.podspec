@@ -25,6 +25,7 @@ Pod::Spec.new do |s|
   s.resource_bundles = {
     'UIImageBlend' => ['Pod/Assets/*.png']
   }
+
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
