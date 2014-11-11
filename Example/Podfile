@@ -1,0 +1,11 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'UIImageBlend', :exclusive => true do
+  pod "UIImageBlend", :path => "../"
+end
+
+target 'Tests', :exclusive => true do
+  pod "UIImageBlend", :path => "../"
+
+  pod 'FBSnapshotTestCase'
+end
