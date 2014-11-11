@@ -1,0 +1,17 @@
+PODS:
+  - FBSnapshotTestCase (1.4)
+  - UIImageBlend (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - UIImageBlend (from `../`)
+
+EXTERNAL SOURCES:
+  UIImageBlend:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: f9f225b5ba11c8d8c09075590490df16314e4d62
+  UIImageBlend: baeb317f6fa72824b4f9a73c2c5e94cd9d948761
+
+COCOAPODS: 0.35.0.rc1

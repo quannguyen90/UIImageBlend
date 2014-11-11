@@ -1,0 +1,5 @@
+#include "Pods-Tests-UIImageBlend.xcconfig"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Build" "${PODS_ROOT}/Headers/Build/UIImageBlend" "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/FBSnapshotTestCase" "${PODS_ROOT}/Headers/Public/UIImageBlend"
+OTHER_LDFLAGS = -ObjC
+PODS_ROOT = ${SRCROOT}
