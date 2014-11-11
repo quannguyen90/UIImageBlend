@@ -11,9 +11,6 @@ Pod::Spec.new do |s|
   s.name             = "UIImageBlend"
   s.version          = "0.1.0"
   s.summary          = "UIImageBlend."
-  s.description      = <<-DESC
-                       UIImageBlend Description
-                       DESC
   s.homepage         = "https://github.com/quannguyen90/UIImageBlend"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
