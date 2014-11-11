@@ -10,13 +10,7 @@
 Pod::Spec.new do |s|
   s.name             = "UIImageBlend"
   s.version          = "0.1.0"
-  s.summary          = "A short description of UIImageBlend."
-  s.description      = <<-DESC
-                       An optional longer description of UIImageBlend
-
-                       * Markdown format.
-                       * Don't worry about the indent, we strip it!
-                       DESC
+  s.summary          = "Blend UIImages"
   s.homepage         = "https://github.com/quannguyen90/UIImageBlend"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'

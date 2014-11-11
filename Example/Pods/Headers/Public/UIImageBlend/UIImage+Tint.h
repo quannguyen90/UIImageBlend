@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/UiimageBlend/UIImage+Tint.h
+../../../../../Pod/Classes/UIImageBlend/UIImage+Tint.h
